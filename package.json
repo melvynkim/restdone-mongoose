@@ -1,0 +1,44 @@
+{
+    "name": "restdone-mongoose",
+    "version": "0.2.1",
+    "description": "Mongoose for Restdone",
+    "main": "index.js",
+    "scripts": {
+        "eslint": "eslint .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melvynkim/restdone-mongoose.git"
+    },
+    "keywords": [
+        "node.js",
+        "rest",
+        "restful",
+        "restdone",
+        "mongo",
+        "mongodb",
+        "mongoose",
+        "nosql"
+    ],
+    "dependencies": {
+        "bluebird": "^3.5.0",
+        "bson": "^0.4.21",
+        "http-status-node": "^0.0.1",
+        "lodash": "^4.17.15"
+    },
+    "devDependencies": {
+        "eslint": "7.24.0 ",
+        "eslint-config-airbnb-base": "14.1.0",
+        "eslint-plugin-import": "2.22.1"
+    },
+    "author": {
+        "name": "Melvyn Kim"
+    },
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/melvynkim/restdone-mongoose/issues"
+    },
+    "homepage": "https://github.com/melvynkim/restdone-mongoose"
+}
